@@ -1,12 +1,56 @@
-# React + Vite
+<h1>📝 TO-DO-LIST</h1>   </br>
+🎯 A sleek and responsive task manager built with React and Vite to help you organize your day-to-day tasks efficiently.</br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: shank0045.github.io/TO-DO-LIST</br>
 
-Currently, two official plugins are available:
+🚀 Features</br>
+✅ Add, Edit, and Delete Tasks: Manage your tasks effortlessly.</br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔄 Task Completion Toggle: Mark tasks as completed or pending.</br>
 
-## Expanding the ESLint configuration
+📱 Responsive Design: Optimized for both desktop and mobile views.</br>
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Fast Reloads: Powered by Vite for quick development feedback.</br>
+
+🛠️ Tech Stack</br>
+Frontend: React, Vite</br>
+
+Styling: CSS Modules</br>
+</br>
+📥 Installation</br></br>
+Clone the repository and install dependencies:</br>
+
+bash</br>
+Copy</br>
+Edit</br>
+git clone https://github.com/Shank0045/TO-DO-LIST.git</br>
+cd TO-DO-LIST</br>
+npm install</br>
+Start the development server:</br>
+
+bash</br>
+Copy</br>
+Edit</br>
+npm run dev</br>
+Open your browser and navigate to http://localhost:5173 to view the application.</br>
+</br>
+
+
+
+🤝 Contributing</br>
+We welcome contributions! Here's how you can help:</br>
+
+Fork the repository.</br>
+
+Create a new branch (git checkout -b feature-name).</br>
+
+Make your changes.</br>
+
+Commit your changes (git commit -am 'Add new feature').</br>
+
+Push to the branch (git push origin feature-name).</br>
+
+Open a Pull Request.</br>
+
+
+
